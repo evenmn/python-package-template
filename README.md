@@ -7,5 +7,8 @@ This is a basic template for a Python package containing documentation with Sphi
 pip install .
 ```
 
+## Documentation
+The documentation can be found at [https://evenmn.github.io/python-package-template](https://evenmn.github.io/python-package-template)
+
 ## License
 [GPL-3.0](LICENSE)
